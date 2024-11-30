@@ -27,3 +27,7 @@ Marka Odaklı Renkler: EmaarTech’in kurumsal kimliğini yansıtan bir renk pal
 Etkili Gezinim: Menüler ve içerik yapısı, kullanıcıların ihtiyaç duydukları bilgilere kolayca ulaşmasını sağlar.
 
 Etkileşimli Öğeler: Kart tabanlı içerik sunumu, hover efektleri ve animasyonlar gibi detaylarla kullanıcı etkileşimi artırılmıştır.
+
+<h1>Ekran Görüntüsü🎬:</h1>
+
+![](./assets/project.gif)
