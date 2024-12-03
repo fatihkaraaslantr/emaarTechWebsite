@@ -1,14 +1,14 @@
-<h1>🚀EmaarTech Web Site Arayüzü</h1>
+<h1>🚀 EmaarTech Web Site Arayüzü</h1>
 
 Bu proje, EmaarTech için geliştirilmiş, modern bir web tasarımı örneğidir. Teknoloji odaklı bir platform için tasarlanan bu arayüz, pratik yaparak deneyim kazanmamı sağlarken, profesyonel bir kullanıcı deneyimi sunmayı hedefler.
 
-<h2>🛠️Kullanılan Teknolojiler</h2>
+<h2>🛠️ Kullanılan Teknolojiler</h2>
 
 -Html
 -Css
 -Bootstrap
 
-<h2>⚙️Özellikler</h2>
+<h2>⚙️ Özellikler</h2>
 
 <h6>Responsive Tasarım:</h6
 
@@ -28,6 +28,6 @@ Etkili Gezinim: Menüler ve içerik yapısı, kullanıcıların ihtiyaç duydukl
 
 Etkileşimli Öğeler: Kart tabanlı içerik sunumu, hover efektleri ve animasyonlar gibi detaylarla kullanıcı etkileşimi artırılmıştır.
 
-<h1>🎬Ekran Görüntüsü</h1>
+<h1>🎬 Ekran Görüntüsü</h1>
 
 ![](./assets/project.gif)
